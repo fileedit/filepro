@@ -1,0 +1,23 @@
+{
+   "app_redirectOtherAppStatus":"0",
+   "app_newPackageName":"https://play.google.com/store/apps/details?id=com.Ranchsimulatarguide.freeguideranch",
+   "app_AppOpenAdStatus":"0",
+   "app_dialogBeforeAdShow":"0",
+   "app_adPlatformSequence":"Facebookaudiencenetwork,Admob",
+   "app_howShowAd":"0",
+   "qureka":"https://747.win.qureka.com",
+   "more_app":"https://raw.githubusercontent.com/filepro23/filepro/main/appslink.json",
+   "admob_showAdStatus":"0",
+   "AppID":"ca-app-pub-2617940661920604~1585073787",
+   "Admob_Banner":"ca-app-pub-3940256099942544/6300978111",
+   "Admob_Interstitial":"ca-app-pub-3940256099942544/1033173712",
+   "Admob_Native":"ca-app-pub-3940256099942544/2247696110",
+   "AppOpen":"ca-app-pub-3940256099942544/3419835294",
+   "fbad_showStatus":"1",
+   "fb_banner":"855436165388288_868617890736782",
+   "fb_inter1":"855436165388288_855440922054479",
+   "fb_inter2":"855436165388288_868618734070031",
+   "fb_inter3":"855436165388288_868619217403316",
+   "fb_native":"855436165388288_855439988721239",
+   "fb_nativebanner":"855436165388288_868618314070073"
+}
