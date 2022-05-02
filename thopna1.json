@@ -1,0 +1,25 @@
+{
+  "Ads": [
+    {
+      "app_id": "ca-app-pub-3940256099942544~3347511711",
+      "banner_id": "ca-app-pub-3940256099942544/6300978112",
+      "interstitial_id": "ca-app-pub-3940256099942544/1033173713",
+      "native_id": "ca-app-pub-3940256099942544/2247696114",
+      "qureka_ads": "https://413.live.predchamp.com/",
+      "status": true,
+      "splash_ads": false
+    },
+    {
+      "app_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "banner_id": "321890276743934_321890446743917",
+      "interstitial_id": "321890276743934_321890680077227",
+      "interstitial_id1": "321890276743934_321891223410506",
+      "interstitial_id2": "321890276743934_321891360077159",
+      "native_id": "321890276743934_321890820077213",
+      "native_banner_id": "321890276743934_321890930077202",
+      "rectangle_banner_id": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "status": true,
+      "splash_ads": false
+    }
+  ]
+}
